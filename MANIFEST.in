@@ -1,0 +1,2 @@
+include mind_randgen_sdk/contracts/abi/*.json
+include mind_randgen_sdk/fhe/librandgen_voter.so

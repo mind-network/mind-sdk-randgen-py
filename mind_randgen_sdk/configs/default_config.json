@@ -1,0 +1,10 @@
+{
+    "mind_rpc_url": "https://rpc-testnet.mindnetwork.xyz",
+    "hub_id": 3,
+    "randgen_hub_address": "0x12fda6328cacE0A68c9C2b86DF38B8d7C16AE1C1",
+    "fhe_key_registry_address": "0x1db64e216C283825118ab9Dcb6d45dc8F7315f67",
+    "member_pool_address": "0xE4AB6CF8b2f3baD1948d9811aA8A52f62b58c946",
+    "hot_wallet_private_key": "fdfe6435447d2364865b229206e62fb51ffbee09bfbed118f6440861619be851",
+    "cold_wallet_address": "0x88760d4301ED0b759978DB6B5C55edAA8De2B6b7",
+    "public_storage_url": "https://gcs-tn.mindnetwork.xyz/upload"
+}
